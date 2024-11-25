@@ -4,4 +4,8 @@ print("lksdjff")
 print("djfkjd")
 print("kldjfkldj")
 print("lsdff")
-printK("kjfdf")
+print("kjfdf")
+print("hghghgh")
+print("kjhhjh")
+
+
