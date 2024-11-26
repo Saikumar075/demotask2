@@ -3,3 +3,10 @@ b = 4
 c = a+b
 print(c)
 jhfjhgmhgm
+jhfjhgmhgm
+result = a+b
+print(result)
+print("kjdf")
+print("kjhkjh")
+print("jhfjf")
+xhgfjff
